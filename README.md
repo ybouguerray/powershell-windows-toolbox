@@ -59,7 +59,7 @@ Start powershell with admin right and paste the following link and enter. <br />
  
 Video Guide: ```https://youtu.be/vA7Sr6d12oU``` <br /><br />
 
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run.png" alt="text" width="550"> <br />
+<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run%20toolbox.jpg" alt="text" width="550"> <br />
 ## Window Toolbox Preview 
 <br />
 
